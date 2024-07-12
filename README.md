@@ -8,10 +8,10 @@
 
 ## Habilidades
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://posit.co/download/rstudio-desktop/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/br/)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ## Github Stats
 
